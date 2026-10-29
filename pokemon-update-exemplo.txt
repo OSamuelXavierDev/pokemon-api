@@ -1,0 +1,10 @@
+PUT http://localhost:8080/pokemons/4
+Content-Type: application/json
+
+{
+  "nome": "Bulbasaur",
+  "altura": 0.8,
+  "peso": 7.0,
+  "categoria": "Planta/Veneno",
+  "dataDaCaptura": "2025-01-15"
+}
